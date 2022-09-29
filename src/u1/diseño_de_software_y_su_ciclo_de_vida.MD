@@ -78,3 +78,31 @@ Segun:
     - Toda arquitectura es diseño pero no todo diseño es arquitectura.
     - La arquitectura es la parte del diseño en donde se toman las decisiones más significativas medidas en el costo al querer cambiarlas.
 
+## Diseño vs. Código
+```
+Robert Martin: Truth can only be found in one place; the code
+Grady Booch: The code is the truth, but not the whole truth
+```
+
+El código es parte del diseño pero no es todo el diseño. Pero no comunica toda la verdad obvia:
+- El contexto
+- El panorama (“big picture”)
+- El por qué de algunas decisiones
+- Las suposiciones
+- Las alternativas de diseño descartadas
+Se necesitan medios para diseñar y modelar
+
+### Se modela para:
+- Comprender
+- Abstraer
+- Comunicar
+- Colaborar
+- Validar
+
+### ¿Cómo Modelamos?
+- Código fuente o pseudocódigo
+- UML
+- ERD
+- MDA (model-driven architecture)
+- BPMN (procesos)
+- Protocolos/Interfaces/Esquemas (APIs, XML, JSON)
