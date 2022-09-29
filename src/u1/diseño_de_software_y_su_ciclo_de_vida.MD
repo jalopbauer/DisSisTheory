@@ -21,3 +21,46 @@ Al diseñar lo que hacemos es tomar decisiones, estas deben cumplir con los requ
 - Experiencia de Usuario (UI/UX)
 - Procesos: Diseñar el ciclo de vida y el flujo de alguna acción que se quiera modelar
 
+## Ciclo de vida del software
+Es el proceso que incluye el planeamiento, creación, validación y puesta en marcha de sistemas de software
+
+### Fases
+```scala
+while (vos.sueldoRecibido() == True)
+ analisisDeRequerimientos()
+ diseño()
+ codificacion()
+ pruebas()
+ desplegarMantener()
+```
+### Modelos de ciclo de vida del software
+#### Cascada/Waterfall
+
+![Diagrama modelo en cascada](/resources/img/u1/diagrama_software_cascada.png)
+
+El costo de un error en todo el flujo, aumenta en forma exponencial conforme avanzamos en las etapas del ciclo.
+
+#### Iterativo
+
+![Diagrama modelo iterativo](/resources/img/u1/diagrama_software_iterativo.png)
+
+Se llevan múltiples iteraciones en cascada a partir de un primer MVP para largar un prototipo que puedan probar los clientes. Se busca tener un feedback constante y rapido. Un error comun al seuir este modelo es que al hacer nuevas feaures no se tienen encuenta patrones o soluciones reutilizables.
+
+#### Espiral (Boehm, 1988)
+
+![Diagrama modelo Boehm](/resources/img/u1/diagrama_software_boehm.png)
+
+Es igual a simple iterativo
+
+#### Unified Process
+
+![Diagrama modelo unified process](/resources/img/u1/diagrama_software_unified_process.webp)
+
+Este modelo lo que denota es que a medida que avanza el proyecto, el esfuerzo relativo de cada disciplina va variando. Se puede hacer tanto en cascada o iterativo.
+
+#### Otros
+- Evolutivo
+- Basado en prototipos
+- Modelo en “V”
+- “Ágiles”
+
