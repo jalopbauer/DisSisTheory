@@ -1,0 +1,1 @@
+https://newline.tech/wp-content/uploads/2018/01/Illustration_for_nlt_blog_RUP_2.jpg
