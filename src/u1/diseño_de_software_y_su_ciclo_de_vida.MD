@@ -64,3 +64,17 @@ Este modelo lo que denota es que a medida que avanza el proyecto, el esfuerzo re
 - Modelo en “V”
 - “Ágiles”
 
+## Diseño vs. Arquitectura de software
+Segun:
+- El libro Documenting Software Arquitectures: 
+    - "Software architecture refers to the fundamental structures of a software system and the discipline of creating such structures and systems ...
+    - "... Each structure comprises software elements, relations among them, and properties of both elements and relations".
+- Robert Martin: "... is no difference between them. None at all."
+- Grady Booch: 
+     - "All architecture is design but not all design is architecture. Architecture represents the significant design decisions that shape a system, where significant is measured by cost of change."
+     - Architecture is the stuff you cant google.
+- Fernando Dobladez:
+    - El diseño apunta al cómo lograr el software que quiero crear. La arquitectura es parte de ese cómo. 
+    - Toda arquitectura es diseño pero no todo diseño es arquitectura.
+    - La arquitectura es la parte del diseño en donde se toman las decisiones más significativas medidas en el costo al querer cambiarlas.
+
