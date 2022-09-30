@@ -1,11 +1,4 @@
 # Principios de Diseño
-## Temas
-- Modularización
-- Principios de diseño
-- Abstracción
-- Complejidad
-- Inmutabilidad
-
 
 ## Modularización
 
@@ -77,3 +70,5 @@ class Split2 {
     def getField(n)
 }
 ```
+
+## Principios de Diseño
