@@ -1,0 +1,7 @@
+#!/bin/sh
+read -p "Enter unit name: " NEW_UNIT_NAME
+# Created directories
+mkdir -p src/$NEW_UNIT_NAME
+mkdir -p resources/img/$NEW_UNIT_NAME
+# List created directories 
+ls -D src resources/img/
