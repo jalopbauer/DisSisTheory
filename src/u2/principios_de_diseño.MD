@@ -1,4 +1,12 @@
 # Principios de Diseño
+## Temas
+- Modularización
+- Principios de diseño
+- Abstracción
+- Complejidad
+- Inmutabilidad
+
+
 ## Modularización
 
 ### Keywords
