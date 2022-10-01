@@ -161,3 +161,5 @@ entre conseguir que un programa funciones y que funcione correctamente.
 - Expect and handle errors.
 
 > Good design is easier to change than bad design. - Andy Hunt & Dave Thomas (The Pragmatic Programmer)
+
+## Abstracción
