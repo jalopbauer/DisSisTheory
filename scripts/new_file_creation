@@ -1,0 +1,15 @@
+#!/bin/sh
+read -p "Enter summary name (With capital letters): " NEW_SUMMARY_NAME
+# Transform NEW_SUMMARY_NAME for file creation
+NEW_SUMMARY_NAME_FILE_NAME=$(echo "$NEW_SUMMARY_NAME" | tr '[:upper:]' '[:lower:]' | tr " " "_")
+# Load all unit folders
+UNIT_FOLDERS=($(ls -D src))
+# Create where user can insert new summary file
+i = 0
+for UNIT_FOLDERS in list
+do
+
+i = i + 1
+done
+# List created directories 
+ls -D src 
