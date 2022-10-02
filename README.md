@@ -25,7 +25,7 @@ Posibles estados:
 |Diseño de software y su ciclo de vida|R|Jorge|
 |Modularizacion|R|Mai|
 |Principios de disenio|R|Mai|
-|Abstraccion|E|Mai|
+|Abstraccion|R|Mai|
 |Complejidad|N|Ape|
 |Inmutabilidad|E|Mai|
 |Disenio OO|N|Jorge|
