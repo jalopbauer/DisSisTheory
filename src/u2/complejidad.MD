@@ -88,8 +88,7 @@ usados son “Testing” e “Informal Reasoning”.
    - Complexity breeds complexity: son todas las complejidades que se crean a raíz de no entender
      la complejidad original del código. 
    - Simplicity is hard: no siempre existe una forma simple de simplificar el código.
-   - Power corrupts: lo features más poderosos del lenguaje tienden a ser más difíciles de 
-     entender cuando construyas el sistema.
+   - Power corrupts: Mientras mas poderoso es el lenguaje, osea mientras mas libertades tiene el lenguaje, mas dificil es de entender los sistemas construidos con el.
      
 ### Formas clásicas de manejar la Complejidad
    - Object Orientation Programming: Los lenguajes orientados a objetos sufren mucho de ambas,
