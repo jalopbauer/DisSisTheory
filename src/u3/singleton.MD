@@ -9,3 +9,9 @@ Solo se instancia al pedirlo y solo si la instancia es null. El problema es que 
 Muy parecida a la lazy pero con el agregado de asegurarse de que cada hilo tenga una instancia asignada, el problema de esta es que genera mucho código, haciéndolo costoso e ineficiente.
 ### Lazy “double-check locking” 
 Se hace un doble chequeo con synchronized dentro del bloque, pero no funciona en el caso de java se soluciona usando volatile.
+### Ejemplos de singleton:
+- Caches
+- Connection pooling
+- Control de concurrencia/acceso
+- java.lang.Runtime.getRuntime()
+- java.awt.Desktop.getDesktop()
