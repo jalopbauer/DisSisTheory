@@ -31,6 +31,7 @@
    * Requirements refining and Rapid Prototyping: la parte más difícil ya que el cliente no sabe lo que quiere.
    * Incremental development: potenciar y adaptar el software en lugar de crear desde cero.
    * Great Designers: son tan importantes para el desarrollo software como los managers.
+
 “Out of the Tar Pit” → Ben Moseley & Peter Marks
 * Los autores piensan que la única significante de las 4 propiedades de sistemas es la COMPLEJIDAD, ya que las otras pueden ser o clasificadas como tipos de complejidad o pueden verse como problemáticas solo por la complejidad del sistema.
 * Complejidad → Raíz de todos los problemas → mientras más complejo más difícil de entender y más errores a la hora de editar el proyecto.
