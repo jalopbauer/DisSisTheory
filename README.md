@@ -26,7 +26,7 @@ Posibles estados:
 |Modularizacion|R|Mai|
 |Principios de disenio|R|Mai|
 |Abstraccion|R|Mai|
-|Complejidad|N|Ape|
+|Complejidad|R|~~Ape~~ Mai|
 |Inmutabilidad|E|Mai|
 |Disenio OO|N|Jorge|
 |SOLID|N|Jorge|
