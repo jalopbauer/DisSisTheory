@@ -16,11 +16,13 @@
    - “Un problema que ocurra en el desarrollo conduce a más problemas luego.”
 
 ### Dificultades esenciales
-   - Conformity: Varía entre interfaces y con el tiempo solo porque es diseñado por distintas 
-     personas.
-   - Changeability: el software debe poder adaptarse a cambios, por nuevas tecnologías o funciones.
-   - Invisibility: es difícil visualizar cómo funciona un programa, y por lo general se hace en el
-     momento de su creación, no antes.
+Complexity: el software es muy complejo para su tamaño (ninguna de sus partes son iguales), esto genera 
+   - Conformity: conformidad a diferentes interfaces crea una complejidad arbitraria (es complejo satisfacer todos los 
+     intereses).
+   - Changeability: el software luego de su salida sigue cambiando por lo que hay una constante presión al cambio y la 
+     adaptabilidad.
+   - Invisibility: el software es invisible no lo podes ver, lo que lleva a formar varios gráficos que en algunos casos 
+     se superponen.
 
 ### Mejoras encontradas
    - High-Level languages: estos liberan al programador de complejidad no necesaria, o no buscada.
