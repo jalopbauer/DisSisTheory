@@ -102,7 +102,7 @@ entre conseguir que un programa funciones y que funcione correctamente.
 - Testability: Self explanatory.
 
 #### Transition Factors
-- Portability: Que todo o parte del codigo se pueda usar en distintos harwares.
+- Portability: Que todo o parte del codigo se pueda usar en distintos hardwares.
 - Reusability: Reutilizar módulos para dar soluciones a otros problemas.
 - Interoperability: Que el software pueda operar con otros softwares.
 
