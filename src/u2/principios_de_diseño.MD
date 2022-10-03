@@ -26,7 +26,7 @@ entre conseguir que un programa funciones y que funcione correctamente.
 - Maintainability: Codigo fácil de entender, monitoreo de software, alertas, manejo
   de errores, logs distribuidos.
 - Flexibility: Adaptable a cambios futuros.
-- Testability: Self explanatory.
+- Testability: Capacidad de ser testeable.
 
 ### Transition Factors
 - Portability: Que todo o parte del codigo se pueda usar en distintos hardwares.
