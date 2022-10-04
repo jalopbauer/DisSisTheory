@@ -5,7 +5,7 @@
 ## Diseño de software
 Diseñar software es el proceso de definir la arquitectura, componentes y otras características del sistema para su realización. El resultado de ese proceso es el Diseño de software. 
 ### Decisiones de diseño
-Al diseñar lo que hacemos es tomar decisiones, estas deben cumplir con los requerimienos, deben ser justificadas y comparardas entre si ya que toda decision genera trade-offs. Una decision puede ser recomendable para un contexto pero no para otro. Se tiene que empezar con las que generen una alta calidad con poco costo. Se debe tomar deciciones sin complejizar innecesariamente el propósito pautado (KISS). Hay que concentrarse en el núcleo de lo que se necesita, y postergar las ideas que requieran pensar y las implementaciones futuras lo más posible, para no encasillarse en la idea de desarrollar. Pensar en conceptos amplios.
+Al diseñar lo que hacemos es tomar decisiones, estas deben cumplir con los requerimientos, deben ser justificadas y comparardas entre si ya que toda decision genera trade-offs. Una decision puede ser recomendable para un contexto pero no para otro. Se tiene que empezar con las que generen una alta calidad con poco costo. Se debe tomar deciciones sin complejizar innecesariamente el propósito pautado (KISS). Hay que concentrarse en el núcleo de lo que se necesita, y postergar las ideas que requieran pensar y las implementaciones futuras lo más posible, para no encasillarse en la idea de desarrollar. Pensar en conceptos amplios.
 ### Restricciones a la hora de diseñar software
 - Dinero
 - Tiempo
