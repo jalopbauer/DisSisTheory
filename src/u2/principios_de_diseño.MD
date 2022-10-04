@@ -7,7 +7,7 @@
 
 ## ¿Qué es un buen diseño?
 El principio de la sabiduría de un ingeniero de software es reconocer la diferencia
-entre conseguir que un programa funciones y que funcione correctamente.
+entre conseguir que un programa funcione y que funcione correctamente.
 
 ## Calidad de Software - McCall's Classic Model for Software Quality Factors (1977)
 ![](../../resources/img/u2/McCalls_Quality_Factors.jpg)
@@ -18,7 +18,7 @@ entre conseguir que un programa funciones y que funcione correctamente.
   los errores. Hace lo que debe hacer siempre.
 - Efficiency: Hace lo que debe hacer lo más rápido posible y con la menor cantidad
   de recursos.
-- Integrity: Que no se caiga, que no permita invasiones de memoria. 
+- Integrity: Que sea robusto, que no se caiga, que no permita invasiones de memoria. 
 - Usability: Fácil de interactuar, que sea intuitivo, que las capacidades del sistema
   sean fáciles de descubrir por el usuario.
 
